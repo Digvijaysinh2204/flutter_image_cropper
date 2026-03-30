@@ -3,7 +3,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'image_cropper'
-  s.version          = '0.0.5'
+  s.version          = '0.0.6'
   s.summary          = 'A Flutter plugin supports cropping images'
   s.description      = <<-DESC
 A Flutter plugin supports cropping images
