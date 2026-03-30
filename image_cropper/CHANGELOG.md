@@ -1,3 +1,7 @@
+## 12.1.2
+
+- fix issue of `TOCropViewController` on Swift Package and CocoaPods by using universal header imports
+
 ## 12.1.1
 
 - fix issue of fixed (locked) aspect ratio on iOS
